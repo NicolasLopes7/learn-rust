@@ -97,3 +97,16 @@ An array is a collection of objects of the same type T, stored in contiguous mem
 ```
 
 </details>
+
+<details>
+<summary>Custom Types</summary>
+
+- struct: define a structure
+- enum: define an enumeration
+
+Constants can also be created via the `const` and `static` keywords.
+
+
+The `enum` keyword allows the creation of a type which may be one of a few different variants. Any variant which is valid as a struct is also valid as an enum.
+
+</details>
